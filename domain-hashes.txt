@@ -1,0 +1,11 @@
+Happ domain hashes (SHA-256 of the lowercase host, without https:// or a path)
+
+Recommended raw GitHub delivery:
+Host: raw.githubusercontent.com
+Hash: 1f6baa4a359d00da68e56aee3deaa07b7777e96662bb05ecd9cda1d303136023
+URL: https://raw.githubusercontent.com/Zeva-admin/HAPP-UI/main/subscription.txt
+
+Optional GitHub Pages delivery:
+Host: zeva-admin.github.io
+Hash: 84ac0e24d6f71a51b2110d2015549436e14c1b43f744371ed8f0afd0be90b685
+URL: https://zeva-admin.github.io/HAPP-UI/subscription.txt
